@@ -12,7 +12,7 @@
 
 Hi, I'm Adam Ma, a frontEnd web developer from China.
 
-- 🔭 I’m currently working on [bytedance](https://www.bytedance.com/zh/)
+- 🔭 I’m currently working on [Bytedance](https://www.bytedance.com/zh/)
 - 🌱 I’m currently learning Typescript / c++ / graphql / [Competitive Programming](https://www.youtube.com/watch?v=ueNT-w7Oluw)
 - 💬 Ask me about anything [here](https://github.com/qq240814476/qq240814476/issues)
 
@@ -27,8 +27,4 @@ Hi, I'm Adam Ma, a frontEnd web developer from China.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=qq240814476&show_icons=true&include_all_commits=true&theme=nightowl" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=qq240814476&layout=compact&theme=nightowl" />
 </a>
