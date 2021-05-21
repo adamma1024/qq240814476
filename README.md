@@ -12,7 +12,7 @@
 
 Hi, I'm Adam Ma, a frontEnd web developer from China.
 
-- 🔭 I’m currently working on [bytedance](https://www.bytedance.com/zh/)
+- 🔭 I’m currently working on [Bytedance](https://www.bytedance.com/zh/)
 - 🌱 I’m currently learning Typescript / c++ / graphql / [Competitive Programming](https://www.youtube.com/watch?v=ueNT-w7Oluw)
 - 💬 Ask me about anything [here](https://github.com/qq240814476/AdamMa/issues)
 
