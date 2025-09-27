@@ -1,4 +1,4 @@
-### Hi there, I'm [Adam Ma!](https://www.adamma.me) 👋
+### Intro
 
 <a href="https://codesandbox.io/u/qq240814476">
   <img align="left" alt="Adam Ma | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Adam Ma, a FullStack engineer from China.
+Hi, I'm Adam Ma 👋, a FullStack engineer from China. Here's my [portfolio 📖](https://www.adamma.me)
 
 - 🚀 I'm currently pursuing my Master Degree at Boston University
 - 🔭 I’m previously working on Microsoft, [Bytedance](https://www.bytedance.com/zh/)
