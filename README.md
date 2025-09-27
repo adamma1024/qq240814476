@@ -1,4 +1,4 @@
-### Hi there, I'm [Adam Ma!](https://malin-life.com) 👋
+### Hi there, I'm [Adam Ma!](https://www.adamma.me) 👋
 
 <a href="https://codesandbox.io/u/qq240814476">
   <img align="left" alt="Adam Ma | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -10,14 +10,16 @@
 <br />
 <br />
 
-Hi, I'm Adam Ma, a frontEnd web developer from China.
+Hi, I'm Adam Ma, a FullStack engineer from China.
 
-- 🔭 I’m currently working on [Bytedance](https://www.bytedance.com/zh/)
-- 🌱 I’m currently learning Typescript / c++ / graphql / [Competitive Programming](https://www.youtube.com/watch?v=ueNT-w7Oluw)
-- 💬 Ask me about anything [here](https://github.com/qq240814476/qq240814476/issues)
+- 🚀 I'm currently pursuing my Master Degree at Boston University
+- 🔭 I’m previously working on Microsoft, [Bytedance](https://www.bytedance.com/zh/)
+- 🌱 I’m currently learning Go / Web3 / [Competitive Programming](https://www.youtube.com/watch?v=ueNT-w7Oluw)
+- 💬 Ask me about anything [here](https://github.com/adamma1024/adamma1024/issues)
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -26,5 +28,5 @@ Hi, I'm Adam Ma, a frontEnd web developer from China.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=qq240814476&show_icons=true&include_all_commits=true&theme=nightowl" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=adamma1024&show_icons=true&include_all_commits=true&theme=nightowl" alt="Anurag's github stats" />
 </a>
