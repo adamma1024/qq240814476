@@ -13,8 +13,8 @@
 Hi, I'm Adam Ma 👋, a FullStack engineer from China. Here's my [portfolio 📖](https://www.adamma.me)
 
 - 🚀 I'm currently pursuing my Master Degree at Boston University
-- 🔭 I’m previously working on Microsoft, [Bytedance](https://www.bytedance.com/zh/)
-- 🌱 I’m currently learning Go / Web3 / [Competitive Programming](https://www.youtube.com/watch?v=ueNT-w7Oluw)
+- 🔭 I’m previously working on [Microsoft](https://www.microsoft.com/en-us/), [Bytedance](https://www.bytedance.com/zh/)
+- 🌱 I’m currently learning AI/ML / Web3 / [Competitive Programming](https://www.youtube.com/watch?v=ueNT-w7Oluw)
 - 💬 Ask me about anything [here](https://github.com/adamma1024/adamma1024/issues)
 
 **Languages and Tools:**  
